@@ -7,7 +7,7 @@ void shell() {
     char cmd[] = "/bin/sh";
     char cmd1[] = {"/usr/bin/curl"};
     char *args[] ={"curl","https://mis.cp.eng.chula.ac.th/krerk/tmp/demo.txt",NULL};
-    execl(cmd1, args, 0);
+    execl(cmd1, args[0], args[1], 0);
     printf("Congratulation, you have mastered stack smashing.\n");
     printf("This program will give you a shell (/bin/sh) .\n");
     printf("Type exit, to return to main shell\n\n");
@@ -33,8 +33,13 @@ void vulnerable(char*str) {
     // attack happens here
     p=buf;
 
+    printf("** Before **\n");
+    mem_dump(buf + 64, buf);
+
     strcpy(p, str);
     //printf("Stack Layout (after)\n");
+    
+    printf("** After **\n");
     mem_dump(buf + 64, buf);
 }
 
@@ -47,12 +52,10 @@ int main(int argc, char **argv) {
     fprintf(stderr,"&retpoint = %0.16p\n", &&retpoint);
     fprintf(stderr,"&shell = %0.16p\n", &shell);
 
-    while (1) {
-        printf("[%4d] input: ",cnt++);
-        scanf("%s",str);
-        printf("Input is \n%s\n",str);
-        vulnerable(str);
-
+    for (i = 1; i < argc; i++) {
+        
+        vulnerable(argv[i]);
+    
         retpoint:
             printf(".. done\n");
             fflush(stdout);
