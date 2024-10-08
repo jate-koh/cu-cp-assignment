@@ -1,3 +1,6 @@
+# Virtual Python env
+.venv/
+
 # C output
 **/*.o
 
