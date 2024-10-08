@@ -1,0 +1,27 @@
+# C output
+**/*.o
+
+# Lock file
+**/.~lock.*
+
+# Lab Sheets
+**/*.pdf
+
+# Slides
+**/*.ppt
+**/*.pptx
+
+# Word Processor
+**/*.odt
+**/*.doc
+**/*.docx
+
+# Python
+**/__pycache__/
+**/.venv/
+
+# Dictionary
+words_dictionary.json
+
+# Misc
+.DS_Store
