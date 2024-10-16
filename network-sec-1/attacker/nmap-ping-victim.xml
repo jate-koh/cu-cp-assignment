@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?><nmaprun args="nmap -sn 192.168.1.112" profile_name="Ping scan" scanner="nmap" start="1728631525" startstr="Fri Oct 11 14:25:25 2024" version="7.95" xmloutputversion="1.04"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">Starting Nmap 7.95 ( https://nmap.org ) at 2024-10-11 14:25 +07
+Nmap scan report for JK-ArchARM (192.168.1.112)
+Host is up (0.0019s latency).
+MAC Address: 16:7C:DF:F1:FC:DE (Unknown)
+Nmap done: 1 IP address (1 host up) scanned in 0.10 seconds
+</output><host comment=""><status state="up"></status><address addr="192.168.1.112" vendor="" addrtype="ipv4"></address><address addr="16:7C:DF:F1:FC:DE" vendor="" addrtype="mac"></address><hostnames><hostname name="JK-ArchARM" type="PTR"></hostname></hostnames><ports></ports><os></os><uptime seconds="" lastboot=""></uptime><tcpsequence index="" difficulty="" values=""></tcpsequence><ipidsequence class="" values=""></ipidsequence><tcptssequence class="" values=""></tcptssequence></host><runstats><finished time="1728631525" timestr="Fri Oct 11 14:25:25 2024"></finished><hosts up="1" down="0" total="1"></hosts></runstats></nmaprun>
