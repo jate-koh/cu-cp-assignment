@@ -1,0 +1,422 @@
+Starting Heartbleed attack loop on heartbleedlabelgg.com with length 30000 for 20 iterations...
+Running attack iteration 1 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 1.
+Running attack iteration 2 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 2.
+Running attack iteration 3 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 3.
+Running attack iteration 4 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 4.
+Running attack iteration 5 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 5.
+Running attack iteration 6 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 6.
+Running attack iteration 7 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 7.
+Running attack iteration 8 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 8.
+Running attack iteration 9 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 9.
+Running attack iteration 10 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 10.
+Running attack iteration 11 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 11.
+Running attack iteration 12 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 12.
+Running attack iteration 13 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 13.
+Running attack iteration 14 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 14.
+Running attack iteration 15 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 15.
+Running attack iteration 16 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 16.
+Running attack iteration 17 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 17.
+Running attack iteration 18 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 18.
+Running attack iteration 19 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 19.
+Running attack iteration 20 with length 30000...
+
+defribulator v1.20
+A tool to test and exploit the TLS heartbeat vulnerability aka heartbleed (CVE-2014-0160)
+
+##################################################################
+Connecting to: www.heartbleedlabelgg.com:443, 1 times
+Sending Client Hello for TLSv1.0
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Analyze the result....
+Received Server Hello for TLSv1.0
+Analyze the result....
+Received alert:
+Please wait... connection attempt 1 of 1
+##################################################################
+
+.F
+
+Completed attack iteration 20.
+Heartbleed attack loop finished.
